@@ -1,0 +1,68 @@
+/*logo contactos*/
+.btn {
+    width: 40px;
+    height: 40px;
+    }
+    
+    /* Botones propiedades*/
+.icono {
+
+    width: 40px;
+    height: 40px;
+
+}
+.botondecards {
+    width: 70px;
+    height: 60px;
+
+}
+/* imagen de experiencialaboral*/
+ .imagentrabajoenequipo {
+    background-image:url(/imagen/experiencia\ laboral.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 1px;
+    margin-top: 1px;
+    margin-left: 1px;
+margin-right: 1px;
+ }
+
+ /*Cards como acomode*/
+ .main-container {
+    display: flex;
+    
+
+ }
+.card {
+    margin: 5px;
+}
+/* organizar botones barra nav*/
+
+.container-fluid {
+    display: flex;
+    justify-content: 5px 5px 5px;
+}
+
+
+ /* estilos de los horarios*/
+ .dias {   
+    border-color: black;
+    border-style: solid;
+    font-weight: bold;
+    font-size: large;
+
+}
+.horas {font-family: cursive;}
+.colorlunes {color: rgb(21, 24, 170);}
+.colormartes{color: chartreuse;}
+.colormiercoles{color:aqua}
+.colorjueves{color: rgba(91, 59, 94, 0.404);}
+
+/*logo contactos*/
+.btn-insta-wtp {
+width: 40px;
+height: 40px;
+}
+
+
+ 

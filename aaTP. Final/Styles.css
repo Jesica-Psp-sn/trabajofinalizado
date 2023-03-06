@@ -1,0 +1,147 @@
+.imagendefondo {
+    background-image:url(.//imagen/9657c99026de9e9.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 1px;
+    margin-top: 1px;
+    margin-left: 1px;
+margin-right: 1px;
+
+}
+.titulos { color: rgb(149, 149, 238);
+    font-family: cursive;
+    font-size: large;
+    
+
+}
+h2 {color: blueviolet;
+font-family: cursive;
+font-size: medium;}
+p { font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;}
+
+
+
+
+/*label*/
+
+label { color: blueviolet;
+    font-family: cursive;
+font-size: medium;}
+
+/*header*/
+.tarea-5 {
+    background-color:khaki;
+    width: 100%;
+    left: 0%;
+    right: auto;
+    top:auto; 
+
+}
+/*nav*/
+.alineados {
+    width: 100%;
+    height: 50px;
+    padding-bottom: 10px;
+
+    display: flex;
+    justify-content: space-between;
+}
+.asulado {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 15px;
+list-style: none;
+}
+li {
+    border: 3px;
+    margin: 15px;
+    padding-bottom: 10px;
+    justify-content: space-between;
+}
+.contenedor-main {
+    background-color: rgb(37, 243, 9));
+    width: 25px;
+    height: 25%;
+    
+}
+.tarea-3 { 
+    background-color: khaki;
+    width: 100;
+    left: 0%;
+    right: auto;
+    top: auto;
+    
+}
+
+
+
+/*aside*/
+.contenedor-aside {
+    background-color: rgb(22, 228, 228);
+    width: 0%;
+    left: 0%;
+    right: auto;
+    
+}
+.asidex {
+    display: flex 1px;
+    padding-top: 100px;
+    margin-left: 50%;
+    grid-column-start: 5;
+    grid-column-end: 6;
+
+
+}
+.mainx {
+    display: grid;
+    grid-column-start: 1;
+    grid-column-end: 3;
+}
+
+/* Botones propiedades*/
+
+.icono {
+
+        width: 40px;
+        height: 40px;
+
+}
+ .button{
+    width: 40px;
+    height: 40px;
+    }
+
+/*FORMULARIO*/
+.asincronico {
+    border-color: blueviolet;
+    
+    border-style: solid;
+}
+/*Fuete*/
+.fuente {
+    font-family: cursive;
+    
+    font-size: larger;
+    background-color: rgb(199, 157, 238);
+}
+
+/* contenedor footer*/
+.foot {
+    background-color: aliceblue;
+    font-family: cursive;
+}
+/* organizar lo primero que veo en el main*/
+.cuerpo {
+    color: rgb(198, 158, 235);
+    font-family: cursive;
+    font-size: medium;
+    
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+
+}
+.navbar{
+    display: flex;
+    background-color: rgb(250, 250, 202);
+    justify-content: 5px;
+
+} 
